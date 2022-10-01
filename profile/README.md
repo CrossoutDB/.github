@@ -1,4 +1,4 @@
-![CrossoutDB Banner](CrossoutDBBanner2.png)
+![CrossoutDB Banner](https://user-images.githubusercontent.com/1548289/193420365-feec2f86-b087-4cc4-a037-93fc61f5480d.png)
 
 A community website for Crossout.
 
